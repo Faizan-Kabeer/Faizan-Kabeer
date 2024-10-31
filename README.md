@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Faizan-Kabeer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Faizan-Kabeer&icon=0&color=3)](https://visitcount.itsvg.in)
